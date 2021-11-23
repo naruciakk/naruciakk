@@ -1,1 +1,1 @@
-Hi there, I keep here the code parts of my project, because it's not an industry standard to just keep some ZIPs with code on the website, but nonetheless, all of my private projects are available on my website.
+Hi there, I keep here the code parts of my projects, because it's not an industry standard to just keep some ZIPs with code on the website, but nonetheless, all of my private projects are available on my website.
